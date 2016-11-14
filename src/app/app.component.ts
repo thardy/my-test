@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+//import { ProductsComponent } from './products';
 
 @Component({
   selector: 'my-root',
